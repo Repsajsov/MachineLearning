@@ -1,0 +1,4 @@
+Macbook:
+df = pd.read_csv('/Users/jaspervos/Dropbox/Data/voorspel-verhuuraantallen-2023/train.csv', parse_dates=['date_hour'], index_col='date_hour')
+
+Desktop:
